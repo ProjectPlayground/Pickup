@@ -1,0 +1,36 @@
+<user>
+	<username>catchmeonthecourt</username>
+	<email>ballislife23@hotmail.com</email>
+	<password>airgordon00</password>
+	<fullName>Jordan Michael</fullName>
+	<phoneNumber>905-555-3065</phoneNumber>
+	<location>Brampton, ON</location>
+	<height>175</height>
+	<weight></weight>
+	<wingspan>180</wingspan>
+	<age>21</age>
+	<externalLink>www.youtube.com/user/catchmeonthecourt</externalLink>
+	<description>my name is Jordan, I like basketball, and I carry my ball shoes everywhere in case I need to dunk on some fools</description>
+	<favoriteSport>Basketball</favoriteSport>
+	<playedSports>
+		<sportPerformance>
+			<name>Basketball</name>
+			<wins>23</wins>
+			<losses>3</losses>
+			<draws>0</draws>
+		</sportPerformance>
+		<sportPerformance>
+			<name>American Football</name>
+			<wins>1</wins>
+			<losses>2</losses>
+			<draws>0</draws>
+		</sportPerformance>
+		<sportPerformance>
+			<name>Soccer</name>
+			<wins>1</wins>
+			<losses>0</losses>
+			<draws>1</draws>
+		</sportPerformance>
+	</playedSports>
+	<eventHistory>1,2</eventHistory>
+</user>
